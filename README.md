@@ -8,5 +8,5 @@ Database: MongoDB, Heroku, Netlify</br>
 
 📬Email: jareckiemily@yahoo.com</br>
 📌LinkedIn: https://www.linkedin.com/in/emilyjarecki22/ </br>
-🌟Profile: In the making!👩🏼‍🔬
+🌟Profile: In the making!👩🏼‍🔬</br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
