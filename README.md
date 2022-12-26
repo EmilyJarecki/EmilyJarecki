@@ -2,7 +2,7 @@
 
 I'm a student at General Assembly studying Software Engineering👩🏼‍🔬</br>
 
-<h4>Things I code with:</h4>
+<h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly;>
             <img width=50px className="symbol" src="https://img.icons8.com/color/512/javascript.png"/>
             <img width=50px className="symbol" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
