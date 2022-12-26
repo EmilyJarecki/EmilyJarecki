@@ -5,7 +5,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly;>
-            <img width=50px src="https://img.icons8.com/color/512/javascript.png"/>
+            <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
             <img width=50px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
             <img  width=50px src="https://img.icons8.com/stickers/512/css3.png"/>
             <img  width=50px src="https://img.icons8.com/fluency/512/python.png"/>
