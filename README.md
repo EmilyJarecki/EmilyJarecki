@@ -3,6 +3,8 @@
 I'm a student at General Assembly studying Software Engineering👩🏼‍🔬<br>
 I learned a bit of HTML, CSS, and Python on my own before completely making the leap into the world of coding. <br>Haven't looked back since👩🏼‍💻👾
 
+✍🏻Currently working on: Full-Stack integration
+
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly;>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
