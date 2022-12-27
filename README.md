@@ -30,7 +30,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 
 <h3>More about me...</h3>
 🧬Personality: Introvert (but you already guessed that)<br>
-🌊Form of therapy: commercial fiction📚, GoT movie marathon🎬<br>
+🌊Form of therapy: commercial fiction📚, GoT reruns🎬<br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
 <img width=250px src="https://tse4.mm.bing.net/th?id=OIP.NQGulYE5IbShfn2UafG6BQHaGW&pid=Api&P=0"/>
