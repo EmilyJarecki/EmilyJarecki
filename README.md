@@ -26,8 +26,8 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
        
 <h2>Contact</h2>
 📬Email: <a href="mailto:jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
-📌LinkedIn: https://www.linkedin.com/in/emilyjarecki22/ <br>
-🌟Portfolio: In the making!🔨👷🏼‍♀️<br>
+📌Profile: <a href="https://www.linkedin.com/in/emilyjarecki22/">LinkedIn</a><br>
+🌟Portfolio: Coming soon🔨👷🏼‍♀️<br>
 
 
 <h3>More about me...</h3>
