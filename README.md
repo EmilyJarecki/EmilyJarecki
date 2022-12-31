@@ -32,6 +32,6 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 
 <h3>More about me...</h3>
 🧬Personality: Introvert <sub>(but you could have guessed that)</sub><br>
-🌊Form of therapy: commercial fiction📚, GoT reruns🎬<br>
+🌊Form of therapy: commercial fiction📚 Game of Thrones 🎬<br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
