@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @EmilyJarecki</h1>
 
-I'm a student at General Assembly studying Software Engineering👩🏼‍🔬<br>
+I'm a student studying Software Engineering👩🏼‍🔬 at General Assembly<br>
 I learned a bit of HTML, CSS, and Python on my own before completely making the leap into the world of coding. <br>Haven't looked back since👩🏼‍💻👾
 
 <h2>Things I code with:</h2>
