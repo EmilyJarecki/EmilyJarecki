@@ -3,6 +3,8 @@
 I'm a student studying Software Engineering👩🏼‍🔬 at General Assembly<br>
 I learned a bit of HTML, CSS, and Python on my own before completely making the leap into the world of coding. <br>Haven't looked back since👩🏼‍💻👾
 
+***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
+
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly;>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
@@ -32,5 +34,4 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 🧬Personality: Introvert (but you already guessed that)<br>
 🌊Form of therapy: commercial fiction📚, GoT reruns🎬<br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
-<p>.</p><br>
-<img width=250px src="https://tse4.mm.bing.net/th?id=OIP.NQGulYE5IbShfn2UafG6BQHaGW&pid=Api&P=0"/>
+
