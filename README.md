@@ -23,6 +23,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/>
             <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>      
 </p>
+JavaScript | HTML5 | CSS3 | Python | React.js | Express.js | Bootstrap | Sass | Node.js | Git | GitHub | VS Code | MongoDB | Heroku | Netlify
        
 <h2>Contact</h2>
 📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
