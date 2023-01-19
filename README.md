@@ -21,8 +21,16 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
             <img  width=50px src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
             <img  width=50px src="https://img.icons8.com/color/512/mongodb.png"/>
             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/>
-            <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>      
+            <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>  
+            <img  width=50px src="https://img.icons8.com/color/512/django.png"/>
+<!--             <img  width=50px src=""/> -->
+<!--             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/> -->
+
 </p>
+<strong>Languages: </strong>JavaScript, Python, HTML, CSS, JSON, Sass, SQL<br>
+<strong>Databases: </strong>PostgresSQL, MongoDB, Netlify, Heroku<br>
+<strong>Libraries & Frameworks: </strong>React.js. Express.js, Bootstrap, Semantic UI, Bulma, Django, Flask<br>
+<strong>Other: </strong>RESTful Routing, NPM, CRUD
 
 <h2>Contact</h2>
 📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
