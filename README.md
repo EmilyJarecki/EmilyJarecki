@@ -43,3 +43,5 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 🌊Form of therapy: commercial fiction📚 Game of Thrones 🎬<br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
+<br></br>
+<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
