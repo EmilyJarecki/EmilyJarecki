@@ -22,9 +22,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
             <img  width=50px src="https://img.icons8.com/color/512/mongodb.png"/>
             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/>
             <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>  
-            <img  width=50px src="https://img.icons8.com/color/512/django.png"/>
-<!--             <img  width=50px src=""/> -->
-<!--             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/> -->
+            <img  width=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/512/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
 
 </p>
 <strong>Languages: </strong>JavaScript, Python, HTML, CSS, JSON, Sass, SQL<br>
