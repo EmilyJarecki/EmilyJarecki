@@ -27,7 +27,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 <h2>Contact</h2>
 📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
 📌Profile: <a href="https://www.linkedin.com/in/emilyjarecki22/">LinkedIn</a><br>
-🌟Portfolio:  <a href="https://deluxe-sfogliatella-4b37cd.netlify.app](https://emily-jarecki.netlify.app">View Here</a><br>
+🌟Portfolio:  <a href="https://emily-jarecki.netlify.app">View Here</a><br>
 
 
 <h3>More about me...</h3>
