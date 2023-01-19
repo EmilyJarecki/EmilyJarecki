@@ -5,6 +5,8 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
+
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly;>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
