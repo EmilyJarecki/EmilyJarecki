@@ -48,7 +48,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 <br></br>
 <p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
 <br></br>
-<p display:flex; justify-content: space-evenly; align='center'>
+<!-- <p display:flex; justify-content: space-evenly; align='center'>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
             <img width=50px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
             <img  width=50px src="https://img.icons8.com/stickers/512/css3.png"/>
@@ -65,4 +65,4 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
             <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/>
             <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>  
             <img  width=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/512/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
-            </p>
+            </p> -->
