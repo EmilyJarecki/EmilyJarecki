@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @EmilyJarecki</h1>
 
-I'm a student studying Software Engineering👩🏼‍🔬 at General Assembly<br>
+I'm a student studying Software Engineering👩🏼‍🔬 at General Assembly.<br>
 I learned a bit of HTML, CSS, and Python on my own before completely making the leap into the world of coding. <br>Haven't looked back since👩🏼‍💻👾
 <br></br>
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
