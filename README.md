@@ -6,7 +6,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 <br></br>
 
-<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
+<p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly>
@@ -46,7 +46,7 @@ I learned a bit of HTML, CSS, and Python on my own before completely making the 
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
 <br></br>
-<p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
+<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
 <br></br>
 <!-- <p display:flex; justify-content: space-evenly; align='center'>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
