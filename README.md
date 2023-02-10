@@ -1,7 +1,9 @@
 <h1>👋 Hi, I’m @EmilyJarecki</h1>
 
-I'm a student studying Software Engineering👩🏼‍🔬 at General Assembly.<br>
-I learned a bit of HTML, CSS, and Python on my own before completely making the leap into the world of coding. <br>Haven't looked back since👩🏼‍💻👾
+```Before``` I was self-teaching myself HTML, CSS, and Python.
+<br>```Then``` I became a Software Engineer Fellow at General Assembly. 
+<br>```Now``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.
+
 <br></br>
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 <br></br>
