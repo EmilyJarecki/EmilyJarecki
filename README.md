@@ -4,9 +4,7 @@
 <br>```Then``` I became a Software Engineer Fellow at General Assembly. 
 <br>```Now``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.
 
-<br></br>
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
-<br></br>
 
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
@@ -48,7 +46,6 @@
 
 <br></br>
 <p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
-<br></br>
 <!-- <p display:flex; justify-content: space-evenly; align='center'>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
             <img width=50px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
