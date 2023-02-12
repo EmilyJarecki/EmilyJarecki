@@ -2,7 +2,8 @@
 
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.
+<br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br><br>
+🪴Currently working on a spotify-playlist app🎷 in Django, Python, and SQL
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
