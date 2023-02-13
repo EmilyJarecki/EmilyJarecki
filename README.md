@@ -3,11 +3,18 @@
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
 <br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br><br>
-🪴Currently working on a spotify-playlist app🎷 using Django, Python, and SQL
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
+
+### Currently:
+🪴Working on a <a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md">Spotify-playlist app</a> 🎷 using Django, Python, and SQL.
+<br>
+### Latest Projects: <br>
+🛍<a href="https://github.com/EmilyJarecki/e-commerce">Aviato</a><br>
+🐥<a href="https://github.com/SpeakerTwitter/frontend">Twitter 2.0</a><br>
+
 
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly>
