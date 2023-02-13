@@ -9,11 +9,11 @@
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
 ### Currently:
-🪴Working on a <a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md">Spotify-playlist app</a> 🎷 using Django, Python, and SQL.
+🪴Working on a <a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a> 🎷 using Django, Python, and SQL.
 <br>
 ### Latest Projects: <br>
-🛍<a href="https://github.com/EmilyJarecki/e-commerce">Aviato</a><br>
-🐥<a href="https://github.com/SpeakerTwitter/frontend">Twitter 2.0</a><br>
+🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
+🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
 
 
 <h2>Things I code with:</h2>
