@@ -53,8 +53,8 @@
 🌊Form of therapy: commercial fiction📚 Game of Thrones 🎬<br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
-<br></br>
-<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p>
+<!-- <br></br>
+<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p> -->
 <!-- <p display:flex; justify-content: space-evenly; align='center'>
             <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
             <img width=50px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
