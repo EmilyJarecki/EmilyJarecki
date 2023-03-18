@@ -12,8 +12,8 @@
 🪴Finishing up <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
 <br>
 ### Latest Projects: <br>
-🎷<a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a><br>
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
+🎷<a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a><br>
 🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
 
 
