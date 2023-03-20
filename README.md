@@ -9,7 +9,7 @@
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
 ### Currently:
-🪴Finishing up <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
+🪴Working on <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
 <br>
 ### Latest Projects: <br>
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
