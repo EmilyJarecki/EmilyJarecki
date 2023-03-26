@@ -10,15 +10,13 @@
 
 ### Currently:
 🪴Working on <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
+💭Learning front-end animations and AI API</br>
 <br>
 ### Latest Projects: 
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
 🎷<a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a><br>
 🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
-
-### Learning:
-💭Front-End animations</br>
-💭AI API
+</br>
 
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly>
