@@ -11,11 +11,14 @@
 ### Currently:
 🪴Working on <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
 <br>
-### Latest Projects: <br>
+### Latest Projects: 
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
 🎷<a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a><br>
 🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
 
+### Learning:
+💭Front-End animations</br>
+💭AI API
 
 <h2>Things I code with:</h2>
 <p display:flex; justify-content: space-evenly>
@@ -52,6 +55,7 @@
 <h3>More about me...</h3>
 🧬Personality: Introvert (but you could have guessed that)<br>
 🌊Form of therapy: commercial fiction📚 Game of Thrones 🎬<br>
+🤙🏻Sometimes: a CrossFit competitor</br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
 <!-- <br></br>
