@@ -14,7 +14,7 @@
 <br>
 ### Latest Projects: 
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
-🎷<a href="https://github.com/EmilyJarecki/Spotify_Django/blob/main/README.md" target="_blank">Spotify-playlist app</a><br>
+🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
 🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
 </br>
 
