@@ -10,7 +10,7 @@
 
 ### Currently:
 🪴Working on <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
-💭Learning front-end animations and Tailwind</br>
+💭Learning .NET and C#</br>
 <br>
 ### Latest Projects: 
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
