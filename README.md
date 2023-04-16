@@ -10,7 +10,7 @@
 
 ### Currently:
 🪴Working on polishing <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
-🌱Learning .NET and C#</br>
+🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
 <br>
 ### Latest Projects: 
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
