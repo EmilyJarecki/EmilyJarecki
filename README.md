@@ -9,10 +9,11 @@
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
 ### Currently:
-🪴Working on polishing <a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>🏰<br>
+🪴Working on <a href="https://github.com/EmilyJarecki/dev-blogs" target="_blank">Dev Blogs</a><br>
 🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
 <br>
 ### Latest Projects: 
+🏰<a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a><br>
 🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
 🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
 🐥<a href="https://github.com/SpeakerTwitter/frontend" target="_blank">Twitter 2.0</a><br>
