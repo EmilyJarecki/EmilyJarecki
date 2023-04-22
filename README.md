@@ -9,7 +9,7 @@
 <p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
 ### Currently:
-🪴Working on <a href="https://github.com/EmilyJarecki/dev-blogs" target="_blank">Dev Blogs</a><br>
+🪴Working on <a href="https://github.com/EmilyJarecki/dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
 <br>
 ### Latest Projects: 
