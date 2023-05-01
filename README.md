@@ -1,8 +1,22 @@
 <h1>👋 Hi, I’m @EmilyJarecki</h1>
 
+
+
+***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
+
+
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br><br>
+<br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br>
+### Currently:
+🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
+🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
+### Latest Projects: 
+🏰<a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a><br>
+🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
+🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
+</br>
+
 <h2>Things I code with:</h2>
 <ul>
 <li>JavaScript
@@ -16,19 +30,6 @@
  <li>Python
 </ul>
 
-***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
-
-<p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
-
-### Currently:
-🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
-🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
-<br>
-### Latest Projects: 
-🏰<a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a><br>
-🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
-🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
-</br>
 
 <!-- <p display:flex; justify-content: space-evenly>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -63,8 +64,9 @@
 
 <h3>More about me...</h3>
 🧬Personality: Introvert (but you could have guessed that)<br>
-🌊Form of therapy: commercial fiction📚 Game of Thrones 🎬<br>
 🤙🏻Sometimes: a CrossFit competitor</br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
+</br><br>
 
+<p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
