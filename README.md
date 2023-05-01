@@ -3,6 +3,18 @@
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
 <br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br><br>
+<h2>Things I code with:</h2>
+<ul>
+<li>JavaScript
+<li>React/JSX
+<li>Node.js
+<li>Express.js
+<li>CSS3
+<li>HTML5
+<li>MongoDB
+<li>TypeScript
+ <li>Python
+</ul>
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
@@ -18,8 +30,7 @@
 🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
 </br>
 
-<h2>Things I code with:</h2>
-<p display:flex; justify-content: space-evenly>
+<!-- <p display:flex; justify-content: space-evenly>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -40,7 +51,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+</p> -->
 
 
 
@@ -56,23 +67,4 @@
 🤙🏻Sometimes: a CrossFit competitor</br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
 
-<!-- <br></br>
-<p align='center' margin-top: 10px><img src="https://streak-stats.demolab.com?user=EmilyJarecki&theme=flag-india"/></p> -->
-<!-- <p display:flex; justify-content: space-evenly; align='center'>
-            <img width=50px src="https://img.icons8.com/color/512/javascript.png" alt="javascript"/>
-            <img width=50px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/>
-            <img  width=50px src="https://img.icons8.com/stickers/512/css3.png"/>
-            <img  width=50px src="https://img.icons8.com/fluency/512/python.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/react-native.png"/>
-            <img  width=50px src="https://img.icons8.com/nolan/512/express-js.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/bootstrap.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/sass.png"/>
-            <img  width=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/512/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/git.png"/>
-            <img  width=50px src="https://img.icons8.com/tiny-color/512/github.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/mongodb.png"/>
-            <img  width=50px src="https://img.icons8.com/color/512/heroku.png"/>
-            <img  width=50px src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>  
-            <img  width=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/512/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
-            </p> -->
+
