@@ -12,7 +12,7 @@
 <li>CSS3
 <li>HTML5
 <li>MongoDB
-<li>TypeScript
+
  <li>Python
 </ul>
 
