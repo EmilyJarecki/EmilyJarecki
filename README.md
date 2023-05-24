@@ -26,6 +26,7 @@
 <li>CSS3
 <li>HTML5
 <li>MongoDB
+ <li>Tailwind CSS
 
  <li>Python
 </ul>
