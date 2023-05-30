@@ -11,11 +11,43 @@
 ### Currently:
 🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
+
 ### Latest Projects: 
-🏰<a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a><br>
-🛍<a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a><br>
-🎷<a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a><br>
-</br>
+<table>
+<tr>
+<td align="center" width="33%">
+<h3><a href="https://github.com/EmilyJarecki/arcGIS" target="_blank">Black Owned Business Tracker</a>
+<img width="1751" alt="Screen Shot 2023-05-30 at 10 33 40 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/696d7b1b-3862-4fb4-952d-ec0dfdc11e76">
+
+
+ </td>
+ <td align="center" width="33%">
+<h3><a href="https://github.com/EmilyJarecki/dev-blogs" target="_blank">Dev Blogs</a>
+<img width="1104" alt="Screen Shot 2023-05-30 at 10 22 56 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/34aa6fe9-598b-4307-a9fe-eaf7019a4c79">
+</td>
+  <td align="center" width="33%">
+<h3><a href="https://github.com/EmilyJarecki/e-commerce" target="_blank">Aviato</a>
+ <img width="1345" alt="Screen Shot 2023-05-30 at 10 19 33 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/6448fb4a-deb6-41cb-9d56-ec3a55a8b814">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center" width="33%">
+<h3><a align="center" href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">Inventory Management Application</a></h3>
+<img width="750" alt="232262827-1903ff0a-486b-4b3d-9576-3cbc444f66e2" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/c58d59a7-8763-49d2-ace8-57d7b5e0feea">
+ </td>
+ <td align="center" width="33%">
+<h3><a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>
+ <img height="400" alt="226226344-2a0cb8c4-1fa5-4d03-813e-0783059f8227" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/1aafd558-6121-407e-a700-df884798f51f">
+ </td>
+<td align="center" width="33%">
+<h3><a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a>
+<img width="1110" alt="Screen Shot 2023-05-30 at 10 27 37 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/58e4192a-61d4-4082-9ea3-5489ef7a84e8">
+</tr>
+</table>
+
 
 <h2>Things I code with:</h2>
 <ul>
