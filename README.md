@@ -11,8 +11,20 @@
 ### Currently:
 🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
-
-### Latest Projects: 
+<br>
+<h2>Things I code with:</h2>
+<ul>
+<li>JavaScript
+<li>React.js
+<li>Node.js
+<li>Express.js
+<li>CSS3
+<li>HTML5
+<li>MongoDB
+ <li>Tailwind CSS
+ <li>Python
+</ul>
+<h2 align="center">Projects</h2> 
 <table>
 <tr>
 <td align="center" width="33%">
@@ -48,20 +60,6 @@
 </tr>
 </table>
 
-
-<h2>Things I code with:</h2>
-<ul>
-<li>JavaScript
-<li>React/JSX
-<li>Node.js
-<li>Express.js
-<li>CSS3
-<li>HTML5
-<li>MongoDB
- <li>Tailwind CSS
-
- <li>Python
-</ul>
 
 
 <!-- <p display:flex; justify-content: space-evenly>
@@ -99,7 +97,5 @@
 🧬Personality: Introvert (but you could have guessed that)<br>
 🤙🏻Sometimes: a CrossFit competitor</br>
 ⚡️Fun fact: I can speak sarcasm but not understand it
-</br><br>
 
-<p align='center'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmilyJarecki&show_icons=true&locale=en" alt="EmilyJarecki" /></p>
 
