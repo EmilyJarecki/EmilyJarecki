@@ -10,7 +10,7 @@
 <br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br>
 ### Currently:
 🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
-🌱Learning .NET and <a href="https://github.com/EmilyJarecki/c-sharp-inventory" target="_blank">C#</a></br>
+🌱Learning TypeScript</br>
 <br>
 <h2>Things I code with:</h2>
 <ul>
