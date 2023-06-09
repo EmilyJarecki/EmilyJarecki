@@ -1,13 +1,12 @@
 <h1>👋 Hi, I’m @EmilyJarecki</h1>
 
 
-
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
 
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now,``` I am a full-stack developer who specializes in JavaScript technologies. I like to build complete web applications with API systems and responsive user interfaces.<br>
+<br>```Now, I am a Software Engineer working on the 2023 Opportunity Project.```<br>
 ### Currently:
 🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning TypeScript</br>
