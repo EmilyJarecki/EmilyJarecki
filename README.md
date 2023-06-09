@@ -6,7 +6,7 @@
 
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now, I am a Software Engineer working on the 2023 Opportunity Project.```<br>
+<br>```Now,```**I am a Software Engineer working on the 2023 Opportunity Project.**<br>
 ### Currently:
 🪴Working on <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning TypeScript</br>
