@@ -51,7 +51,7 @@
  </td>
  <td align="center" width="33%">
 <h3><a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a>
- <img height="400" alt="226226344-2a0cb8c4-1fa5-4d03-813e-0783059f8227" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/1aafd558-6121-407e-a700-df884798f51f">
+ <img alt="226226344-2a0cb8c4-1fa5-4d03-813e-0783059f8227" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/1aafd558-6121-407e-a700-df884798f51f">
  </td>
 <td align="center" width="33%">
 <h3><a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a>
