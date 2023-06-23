@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @EmilyJarecki</h1>
+<h1>👋 Hi, I’m Emily</h1>
 
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
