@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h3><a href="https://github.com/EmilyJarecki/arcGIS" target="_blank">Black Owned Business Tracker</a></h3>
+<h3><a href="https://github.com/EmilyJarecki/arcGIS" target="_blank">LA Black Owned Business Tracker</a></h3>
 ArcGIS API - JavaScript - CSS - HTML
  <br></br>
 <img width="1751" alt="Screen Shot 2023-05-30 at 10 33 40 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/696d7b1b-3862-4fb4-952d-ec0dfdc11e76">
