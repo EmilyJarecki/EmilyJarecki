@@ -9,7 +9,7 @@
 <br>```Now,```I am a Software Engineer working on the 👾2023 Opportunity Project and a DevOps Engineer Intern at 🚀SpaceLab.<br>
 ### Currently:
 🪴Working on version II of <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
-🌱Learning TypeScript and AWS.</br>
+🌱Learning mobile development.</br>
 ⭐️Collaborating on <a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">The Opportunity Project</a>
 <br>
 <br>
