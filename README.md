@@ -6,7 +6,7 @@
 
 ```Before,``` I was self-teaching myself HTML, CSS, and Python.
 <br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now,```I am a Software Engineer working on the 👾2023 Opportunity Project and a DevOps Engineer Intern at 🚀SpaceLab.<br>
+<br>```Now,```I am a Web Developer and Designer for Med-Vet International.<br>
 ### Currently:
 🪴Working on version II of <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning mobile development</br>
