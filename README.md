@@ -3,11 +3,7 @@
 
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
-
-```Before,``` I was self-teaching myself HTML, CSS, and Python.
-<br>```Then,``` I became a Software Engineer Fellow at General Assembly. 
-<br>```Now,```I am a Web Developer and Designer for Med-Vet International.<br>
-### Currently:
+## Currently:
 🪴Working on version II of <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
 🌱Learning mobile development</br>
 ⭐️Collaborating on <a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">The Opportunity Project</a>
@@ -29,13 +25,14 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h3><a href="https://github.com/EmilyJarecki/arcGIS" target="_blank">LA Black Owned Business Tracker</a></h3>
-ArcGIS API - JavaScript - CSS - HTML
+<h3><a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">Make My Test Count</a></h3>
+React.js - JavaScript - Next.js - Tailwind CSS
  <br></br>
-<img width="1751" alt="Screen Shot 2023-05-30 at 10 33 40 AM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/696d7b1b-3862-4fb4-952d-ec0dfdc11e76">
+<img width="50%" alt="Screen Shot 2023-09-02 at 4 13 12 PM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/02d55024-ac34-4ad4-87a6-2a5d151edba4">
 
 
- </td>
+
+</td>
  <td align="center" width="33%">
   <h3><a href="https://github.com/EmilyJarecki/dev-blogs" target="_blank">Dev Blogs</a></h3>
   TypeScript - Tailwind CSS - Next.js
@@ -63,7 +60,7 @@ ArcGIS API - JavaScript - CSS - HTML
 <h3><a href="https://github.com/npereznyc/task-quest-frontend" target="_blank">Quest Runner</a></h3>
      JavaScript - React.js - Node.js - Express.js - MongoDB
  <br></br>
- <img alt="226226344-2a0cb8c4-1fa5-4d03-813e-0783059f8227" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/1aafd558-6121-407e-a700-df884798f51f">
+ <img width="50%" alt="226226344-2a0cb8c4-1fa5-4d03-813e-0783059f8227" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/1aafd558-6121-407e-a700-df884798f51f">
  </td>
 <td align="center" width="33%">
 <h3><a href="https://github.com/EmilyJarecki/Spotify_Django" target="_blank">Spotify-playlist app</a></h3>
@@ -109,6 +106,4 @@ ArcGIS API - JavaScript - CSS - HTML
 <h3>More about me...</h3>
 🧬Personality: Introvert (but you could have guessed that)<br>
 🤙🏻Sometimes: a CrossFit competitor</br>
-⚡️Fun fact: I can speak sarcasm but not understand it
-
 
