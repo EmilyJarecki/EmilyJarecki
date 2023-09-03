@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h3><a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">Make My Test Count</a></h3>
+<h3><a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">The 2023 Opportunity Project: Make My Test Count</a></h3>
 React.js - JavaScript - Next.js - Tailwind CSS
  <br></br>
 <img width="50%" alt="Screen Shot 2023-09-02 at 4 13 12 PM" src="https://github.com/EmilyJarecki/EmilyJarecki/assets/107048020/02d55024-ac34-4ad4-87a6-2a5d151edba4">
