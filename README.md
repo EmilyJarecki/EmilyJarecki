@@ -4,8 +4,7 @@
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
 ## Currently:
-🪴Working on version II of <a href="https://github.com/EmilyJarecki/v2-dev-blogs" target="_blank">Dev Blogs</a> ~ Tailwind, TypeScript, Next.js, Vercel<br>
-🌱Learning mobile development</br>
+🌱Learning <a href="https://github.com/EmilyJarecki/foodRecipe" target="_blank">mobile development</a> ~ React Native, Tailwind CSS<br>
 ⭐️Collaborating on <a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">The Opportunity Project</a>
 <br>
 <br>
