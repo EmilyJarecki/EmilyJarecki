@@ -5,7 +5,7 @@
 
 ## Currently:
 🌱Learning <a href="https://github.com/EmilyJarecki/foodRecipe" target="_blank">mobile development</a> ~ React Native, Tailwind CSS<br>
-⭐️Collaborating on <a href="https://github.com/EmilyJarecki/TOP-Project" target="_blank">The Opportunity Project</a>
+🔨Working in JavaScript, Django and Python.
 <br>
 <br>
 <h2>Things I code with:</h2>
