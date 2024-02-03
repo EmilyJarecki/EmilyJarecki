@@ -4,10 +4,16 @@
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
 ## Currently:
-🌱Learning <a href="https://github.com/EmilyJarecki/foodRecipe" target="_blank">mobile development</a> ~ React Native, Tailwind CSS<br>
-🔨Working in JavaScript, Django and Python.
-<br>
-<br>
+👩🏼‍💻Working as a Web Developer at Med Vet International. <br>
+🔨Building with JavaScript, Django and Python.<br>
+🌱Learning Shopify, AWS. 
+
+<h2>Contact:</h2>
+📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
+📌Profile: <a href="https://www.linkedin.com/in/emilyjarecki22/">LinkedIn</a><br>
+🌟Portfolio:  <a href="https://emily-jarecki-portfolio.netlify.app">View Here</a><br>
+
+
 <h2>Things I code with:</h2>
 <ul>
 <li>JavaScript
@@ -20,7 +26,7 @@
  <li>Tailwind CSS
  <li>Python
 </ul>
-<h2 align="center">Projects</h2> 
+<h2>Projects</h2> 
 <table>
 <tr>
 <td align="center" width="33%">
@@ -93,16 +99,3 @@ React.js - JavaScript - Next.js - Tailwind CSS
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p> -->
-
-
-
-<h2>Contact:</h2>
-📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
-📌Profile: <a href="https://www.linkedin.com/in/emilyjarecki22/">LinkedIn</a><br>
-🌟Portfolio:  <a href="https://emily-jarecki-portfolio.netlify.app">View Here</a><br>
-
-
-<h3>More about me...</h3>
-🧬Personality: Introvert (but you could have guessed that)<br>
-🤙🏻Sometimes: a CrossFit competitor</br>
-
