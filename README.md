@@ -4,7 +4,7 @@
 ***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
 
 ## Currently:
-👩🏼‍💻Working as a Web Developer at Med Vet International. <br>
+👩🏼‍💻Working as a Software Developer at Med Vet International. <br>
 🔨Building with JavaScript, Django and Python.<br>
 🌱Learning Shopify, AWS. 
 
