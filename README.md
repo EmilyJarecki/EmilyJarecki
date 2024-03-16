@@ -1,12 +1,9 @@
 <h1>👋 Hi, I’m Emily</h1>
 
-
-***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
-
 ## Currently:
 👩🏼‍💻Working as a Software Developer at Med Vet International. <br>
-🔨Building with JavaScript, Django and Python.<br>
-🌱Learning Shopify, AWS. 
+🔨Building with TypeScript, JavaScript, Handlebars.js, SQL, SCSS, TPL.<br>
+🌱Learning TypeScript, AWS. 
 
 <h2>Contact:</h2>
 📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
@@ -20,13 +17,12 @@
 <li>React.js
 <li>Node.js
 <li>Express.js
-<li>CSS3
+<li>CSS3 / SCSS / Tailwind
 <li>HTML5
-<li>MongoDB
- <li>Tailwind CSS
- <li>Python
+<li>SQL
+<li>Python
 </ul>
-<h2>Projects</h2> 
+<h2>Personal Projects</h2> 
 <table>
 <tr>
 <td align="center" width="33%">
