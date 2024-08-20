@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Emily</h1>
 
 ## Currently:
-👩🏼‍💻Working as a Software Developer at Med Vet International. <br>
+👩🏼‍💻Working as a Front-End Developer at Med Vet International. <br>
 🔨Building with TypeScript, JavaScript, Handlebars.js, SQL, SCSS, TPL.<br>
 🌱Learning TypeScript, AWS. 
 
