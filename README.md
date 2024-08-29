@@ -2,7 +2,7 @@
 
 ## Currently:
 👩🏼‍💻Working as a Front-End Developer at Med Vet International. <br>
-🔨Building with TypeScript, JavaScript, Handlebars.js, SQL, SCSS, TPL.<br>
+🔨Building with TypeScript, JavaScript, SQL, SCSS, TPL.<br>
 🌱Learning TypeScript, AWS. 
 
 <h2>Contact:</h2>
@@ -19,6 +19,7 @@
 <li>Express.js
 <li>CSS3 / SCSS / Tailwind
 <li>HTML5
+<li>MongoDB
 <li>SQL
 <li>Python
 </ul>
