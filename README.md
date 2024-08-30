@@ -2,7 +2,7 @@
 
 ## Currently:
 👩🏼‍💻Working as a Front-End Developer at Med Vet International. <br>
-🔨Building with TypeScript, JavaScript, SQL, SCSS, TPL.<br>
+🔨Building <a href="https://github.com/EmilyJarecki/vigilant-memory" target="_blank">SugarLifts</a><br>
 🌱Learning TypeScript, AWS. 
 
 <h2>Contact:</h2>
