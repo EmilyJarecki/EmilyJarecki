@@ -1,8 +1,5 @@
 <h1>👋 Hi, I’m Emily</h1>
 
-## Currently:
-🔨Building <a href="https://github.com/EmilyJarecki/vigilant-memory" target="_blank">SugarLifts</a><br>
-
 <h2>Contact:</h2>
 📬Email: <a href="jareckiemily@yahoo.com">jareckiemily@yahoo.com</a><br>
 📌Profile: <a href="https://www.linkedin.com/in/emilyjarecki22/">LinkedIn</a><br>
